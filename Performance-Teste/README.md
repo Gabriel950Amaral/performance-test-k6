@@ -6,14 +6,14 @@ Para executar um teste, navegue até a pasta do projeto dentro do repositório g
 
 ### Windows (PowerShell)
 ```powershell
-cd "\PERFORMANCE\performance-test-k6\Performance-Teste"
+cd "\Performance-Teste"
 k6 run indexSmoke.js
 ```
 
 
 ### Linux
 ```sh
-cd /performance-test-k6/Performance-Teste
+cd /Performance-Teste
 k6 run indexSmoke.js
 ```
 
